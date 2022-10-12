@@ -36,7 +36,7 @@ const Questao04 = ()=>{
   return(
     <View style={{flex:1, textAlign:'center', alaingItens: 'center', justifyContent: 'center', backgroundColor:'purple'}}>
     <Text style={{fontSize: 20, color:'white', fontWeight:'bold',}}>
-      QUESTÃO 5
+      QUESTÃO 4
       </Text>
       <Text style={{fontSize: 20, color:'white'}}>
       A maior população é: {pais.name}
